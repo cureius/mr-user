@@ -9,7 +9,7 @@ export const Footer = () => {
     return (
         <footer className="bg-dark text-light py-3" style={footerStyle}>
             <p>
-                Copyright &copy; MakeMyTemplate.com
+                {/* Copyright &copy; MakeMyTemplate.com */}
             </p>
         </footer>
     )
